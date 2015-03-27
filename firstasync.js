@@ -12,7 +12,7 @@ function readF(callback) {
 }
 
 function logMyNumber() {
-	console.log(arr.length - 1);
+	//console.log(arr.length - 1);
 }
 
-readF(logMyNumber);
+readF();
